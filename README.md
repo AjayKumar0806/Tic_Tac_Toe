@@ -34,7 +34,7 @@ This project is a simple implementation of the classic Tic Tac Toe game. It allo
 ## Usage
 
 1. Open the `index.html` file in your web browser.
-2. The game starts with Player X.
+2. The game starts with Player O.
 3. Click on an empty cell to place your mark.
 4. Players alternate turns until one player gets three marks in a row or all cells are filled.
 5. Click the "Reset" button to start a new game.
