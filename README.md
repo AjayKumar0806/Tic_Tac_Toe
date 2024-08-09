@@ -45,4 +45,9 @@ We welcome contributions to improve this project. Please fork the repository and
 
 ## Screenshots
 
-![Tic Tac Toe Game](screenshots/tic_tac_toe.png)
+![Tic Tac Toe Game](output1.png)
+![Tic Tac Toe Game](output2.png)
+![Tic Tac Toe Game](output3.png)
+![Tic Tac Toe Game](output4.png)
+![Tic Tac Toe Game](output5.png)
+![Tic Tac Toe Game](output6.png)
